@@ -1,0 +1,7 @@
+{
+  "name": "ionic-mensaje",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
